@@ -1,3 +1,4 @@
+package exercise1.src;
 import java.util.Random;
 import java.time.Month;
 import java.util.ArrayList;
